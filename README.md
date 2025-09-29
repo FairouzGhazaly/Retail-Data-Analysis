@@ -1,4 +1,4 @@
-# 👜 Retail Sales Analysis (Excel)
+# 👜 Retail Sales Analysis using Excel
 
 ## Overview
 
@@ -51,11 +51,13 @@ The project produced a clear overview of **retail performance**, showing profita
 * Key insights into **top-performing product categories** (e.g., fragrances, accessories).
 * Identification of **seasonal trends** across different months of 2020.
 * Practical skills in **Excel-based BI techniques**, including Pivot Tables, Pivot Charts, and structured business Q&A.
+* 
+---
 
-* ###files Included 
 * [`Project_1.xlsx`](Project_1.xlsx) → Contains raw data, Pivot Tables, and answers to business questions.
 * `Questions` → Business problem statements for analysis.
 * `Answers` → Pivot Table and Chart solutions to the questions.
+* Example:
 
 <img width="877" height="374" alt="image" src="https://github.com/user-attachments/assets/ef272a93-1156-4b7b-bf92-173252bec267" />
 
