@@ -1,5 +1,6 @@
 # 👜 Retail Sales Analysis using Excel
 
+
 ## Overview
 
 This project focuses on analyzing a **retail business dataset** using Microsoft Excel. The objective was to answer key business questions regarding sales performance, profitability, and product categories. The workflow involved **data cleaning, Pivot Table analysis, and dashboard creation** to generate actionable insights for business decision-making.
