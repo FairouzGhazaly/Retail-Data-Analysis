@@ -4,7 +4,7 @@
 
 This project focuses on analyzing a **retail business dataset** using Microsoft Excel. The objective was to answer key business questions regarding sales performance, profitability, and product categories. The workflow involved **data cleaning, Pivot Table analysis, and dashboard creation** to generate actionable insights for business decision-making.
 
----
+
 
 ## Dataset Details
 
@@ -16,7 +16,6 @@ The dataset contains retail transactions with the following key fields:
 
 The dataset covers **3,678 orders** across different product categories, customer purchases, and time periods.
 
----
 
 ## Project Highlights
 
@@ -41,7 +40,7 @@ The dataset covers **3,678 orders** across different product categories, custome
    * How do discounts affect profitability?
    * Which months/years show peak sales activity?
 
----
+
 
 ## Outcome
 
@@ -51,9 +50,9 @@ The project produced a clear overview of **retail performance**, showing profita
 * Key insights into **top-performing product categories** (e.g., fragrances, accessories).
 * Identification of **seasonal trends** across different months of 2020.
 * Practical skills in **Excel-based BI techniques**, including Pivot Tables, Pivot Charts, and structured business Q&A.
-  
----
 
+---
+  
 * [`Project_1.xlsx`](Project_1.xlsx) → Contains raw data, Pivot Tables, and answers to business questions.
 * `Questions` → Business problem statements for analysis.
 * `Answers` → Pivot Table and Chart solutions to the questions.
