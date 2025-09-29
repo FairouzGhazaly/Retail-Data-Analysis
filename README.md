@@ -51,7 +51,7 @@ The project produced a clear overview of **retail performance**, showing profita
 * Key insights into **top-performing product categories** (e.g., fragrances, accessories).
 * Identification of **seasonal trends** across different months of 2020.
 * Practical skills in **Excel-based BI techniques**, including Pivot Tables, Pivot Charts, and structured business Q&A.
-* 
+  
 ---
 
 * [`Project_1.xlsx`](Project_1.xlsx) → Contains raw data, Pivot Tables, and answers to business questions.
